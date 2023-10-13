@@ -10,4 +10,4 @@
 
 • 📝 Хочу писать чистый читабельный код.
 
-• 📫 Связаться со мной можно по email: A.V.Nazareva@yandex.ru.
+• 📫 Связаться со мной можно по email: AnnaNazarieva@gmail.com
