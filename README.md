@@ -1,16 +1,13 @@
-### Hi there 👋
+Привет, я Анна, начинающий веб-разработчик 👋
 
-<!--
-**Fronchik/Fronchik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+• 🤓 Прошла обучение на веб-разработчика.
 
-Here are some ideas to get you started:
+• 👩🏼‍💻 Сейчас делаю свой первый веб-сайт.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• 🔞 Хочу работать в команде и учиться у опытных разработчиков.
+
+• 🎯 Освоить новые фреймворки.
+
+• 📝 Хочу писать чистый читабельный код.
+
+• 📫 Связаться со мной можно по email: A.V.Nazareva@yandex.ru.
