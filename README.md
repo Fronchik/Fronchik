@@ -21,7 +21,7 @@ About Me:
 
 • :nerd_face: Trained as a web developer.
 
-• :woman_technologist: Now I'm creating my first website.
+• :woman_technologist: Now I'm creating website.
 
 • :underage: I want to work in a team and learn from experienced developers.
 
@@ -45,3 +45,4 @@ About Me:
 ---
 
 ### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fronchik&theme=dark&background=000000)](https://git.io/streak-stats)
