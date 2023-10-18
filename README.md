@@ -15,20 +15,33 @@
 
 ---
 
-Привет, я Анна, начинающий веб-разработчик :wave:
+### Hi, I'm Anna, a beginner web developer :wave:
 
-Обо мне:
+About Me:
 
-• :nerd_face: Прошла обучение на веб-разработчика.
+• :nerd_face: Trained as a web developer.
 
-• :woman_technologist: Сейчас делаю свой первый веб-сайт.
+• :woman_technologist: Now I'm creating my first website.
 
-• :underage: Хочу работать в команде и учиться у опытных разработчиков.
+• :underage: I want to work in a team and learn from experienced developers.
 
-• :dart: Освоить новые фреймворки.
+• :dart: Master new frameworks.
 
-• :memo: Хочу писать чистый читабельный код.
+• :memo: I want to write clean, readable code.
 
-• :mailbox_with_mail: Связаться со мной можно по email: AnnaNazarieva@gmail.com
+• :mailbox_with_mail: You can contact me by email: AnnaNazarieva@gmail.com
 
 ---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+---
+
+### :fire: My Stats :
