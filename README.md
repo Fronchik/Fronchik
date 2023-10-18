@@ -7,23 +7,30 @@
   </a>
 </div>
 <div id="check" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fronchik&style=flat-square&color=blue" alt=""/>  
-  <h1>hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+  <img src="https://komarev.com/ghpvc/?username=Fronchik&style=flat-square&color=blue" alt=""/>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" height="300"/>
 </div>
 
+---
 
-Привет, я Анна, начинающий веб-разработчик 👋
+Привет, я Анна, начинающий веб-разработчик :wave:
 
-• 🤓 Прошла обучение на веб-разработчика.
+Обо мне:
 
-• 👩🏼‍💻 Сейчас делаю свой первый веб-сайт.
+• :nerd_face: Прошла обучение на веб-разработчика.
 
-• 🔞 Хочу работать в команде и учиться у опытных разработчиков.
+• :woman_technologist: Сейчас делаю свой первый веб-сайт.
 
-• 🎯 Освоить новые фреймворки.
+• :underage: Хочу работать в команде и учиться у опытных разработчиков.
 
-• 📝 Хочу писать чистый читабельный код.
+• :dart: Освоить новые фреймворки.
 
-• 📫 Связаться со мной можно по email: AnnaNazarieva@gmail.com
+• :memo: Хочу писать чистый читабельный код.
+
+• :mailbox_with_mail: Как связаться со мной:
+AnnaNazarieva@gmail.com 
+[![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%B0%D0%BD%D0%BD%D0%B0-%D0%BD%D0%B0%D0%B7%D0%B0%D1%80%D1%8C%D0%B5%D0%B2%D0%B0-0a3449131/)
+
+---
