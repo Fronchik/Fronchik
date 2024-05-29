@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=Fronchik&style=flat-square&color=blue" alt=""/>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" height="100"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" height="250"/>
 </div>
 
 ---
