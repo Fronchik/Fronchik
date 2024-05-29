@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Oj25fisQ3zhukVWY96/giphy.gif" width="80"/>
+  <img src="https://media.giphy.com/media/Oj25fisQ3zhukVWY96/giphy.gif" width="90"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/anna-nazareva">
@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=Fronchik&style=flat-square&color=blue" alt=""/>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" height="250"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" height="200"/>
 </div>
 
 ---
