@@ -1,3 +1,10 @@
+<div align="center">
+  
+##  Hi :wave:, I'm Anna Nazar'eva
+### Junior Frontend Developer
+
+</div>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Oj25fisQ3zhukVWY96/giphy.gif" width="90"/>
 </div>
@@ -9,27 +16,29 @@
 <div id="check" align="center">
   <img src="https://komarev.com/ghpvc/?username=Fronchik&style=flat-square&color=blue" alt=""/>
 </div>
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="420" height="200"/>
-</div>
+</div> -->
 
 ---
 
-### Hi, I'm Anna, a beginner web developer :wave:
+###
 
 About Me:
 
-• :nerd_face: Trained as a web developer.
+• :books: Trained as a web developer.
 
-• :woman_technologist: Now I'm creating website.
+• :paperclip: I'm currently participating in a project and creating a website.
 
-• :underage: I want to work in a team and learn from experienced developers.
+• :seedling: I have experience with React, JavaScript, CSS, HTML.
 
-• :dart: Master new frameworks.
+• :computer: I'm currently learning and using TypeScript, Next.js.
 
-• :memo: I want to write clean, readable code.
+• :dart: My goal is to become a skilled frontend developer.
 
-• :mailbox_with_mail: You can contact me by email: AnnaNazarieva@gmail.com
+• :memo: Open to internship or job opportunities.
+
+• :mailbox_with_mail: How to reach me: AnnaNazarieva@gmail.com
 
 ---
 
