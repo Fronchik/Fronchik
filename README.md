@@ -61,4 +61,8 @@ About Me:
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fronchik&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Fronchik&layout=compact">
+  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api?username=Fronchik&hide=contribs&theme=nord&show_icons=true" />
+  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fronchik&layout=compact&theme=nord" />
+</a>
