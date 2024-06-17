@@ -9,13 +9,13 @@
   <img src="https://media.giphy.com/media/Oj25fisQ3zhukVWY96/giphy.gif" width="90"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://t.me/Anna_Nazareva">
+  <a href="https://t.me/Anna_Nazareva" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/anna-nazareva">
+  <a href="https://www.linkedin.com/in/anna-nazareva" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a mailto:annanazarieva@gmail.com">
+  <a href="mailto:annanazarieva@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
