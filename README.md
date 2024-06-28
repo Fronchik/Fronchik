@@ -8,16 +8,23 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Oj25fisQ3zhukVWY96/giphy.gif" width="90"/>
 </div>
+
 <div id="badges" align="center">
-  <a href="https://t.me/Anna_Nazareva" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/anna-nazareva" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:annanazarieva@gmail.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
+  <div style="width: 79">
+    <a href="https://t.me/Anna_Nazareva" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    </a>
+  </div>
+  <div style="width: 75">
+    <a href="https://www.linkedin.com/in/anna-nazareva" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+  <div style="width: 59">
+    <a href="mailto:annanazarieva@gmail.com" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+  </div>
 </div>
 <div id="check" align="center">  
   <img src="https://komarev.com/ghpvc/?username=Fronchik&style=flat-square&color=blue" alt=""/>
