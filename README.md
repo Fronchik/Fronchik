@@ -25,9 +25,7 @@ About Me:
 
 • :seedling: I have experience with React, JavaScript, CSS, HTML
 
-• :computer: My projects are available at fronchik.com
-
-• :books: I'm currently learning and using TypeScript, Next.js
+• :computer: I'm currently learning and using TypeScript, Next.js
 
 • :dart: My goal is to become a skilled frontend developer
 
