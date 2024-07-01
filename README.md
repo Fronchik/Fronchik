@@ -19,17 +19,19 @@
 
 About Me:
 
-• :books: Trained as a web developer.
+• :books: Trained as a web developer
 
-• :paperclip: I'm currently participating in a project and creating a website.
+• :paperclip: I'm currently participating in a project and creating a website
 
-• :seedling: I have experience with React, JavaScript, CSS, HTML.
+• :seedling: I have experience with React, JavaScript, CSS, HTML
 
-• :computer: I'm currently learning and using TypeScript, Next.js.
+• :computer: My projects are available at fronchik.com
 
-• :dart: My goal is to become a skilled frontend developer.
+• :books: I'm currently learning and using TypeScript, Next.js
 
-• :memo: Open to internship or job opportunities.
+• :dart: My goal is to become a skilled frontend developer
+
+• :memo: Open to internship or job opportunities
 
 • :mailbox_with_mail: How to reach me:
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Anna_Nazareva)
