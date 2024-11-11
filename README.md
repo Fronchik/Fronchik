@@ -1,7 +1,7 @@
 <div align="center">
   
 ##  Hi :wave:, I'm Anna Nazar'eva
-### Junior Frontend Developer
+### Frontend Developer
 
 </div>
 
