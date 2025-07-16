@@ -6,7 +6,7 @@
 </div>
 
 🧩 Frontend developer based in **Moscow** with hands-on experience in building responsive, user-friendly interfaces using  
-**HTML, CSS, JavaScript, React, and TypeScript**.  
+**HTML, CSS, JavaScript, React and TypeScript**.  
 Currently looking for job or internship opportunities in frontend development.
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Voron_in_A)
