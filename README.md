@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/voronina-anna/)](https://www.linkedin.com/in/voronina-anna/)
 
 
-🧩 I'm a Frontend developer from Moscow with practical experience in creating adaptive and user-friendly interfaces using
+🧩 I'm a Frontend developer with practical experience in creating adaptive and user-friendly interfaces using
 **HTML, CSS, JavaScript, React and TypeScript**.  
 Currently looking for a job or internship in frontend development.
 
