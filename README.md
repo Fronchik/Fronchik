@@ -54,6 +54,6 @@ About Me:
 ### :fire: My Stats :
 
 <a href="https://github-readme-stats.vercel.app/api?username=Fronchik&show_icons=true&theme=radical">
-  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api?username=Fronchik&hide=contribs&show_icons=true" />
+  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api?username=Fronchik&theme=nord&hide=contribs&show_icons=true" />
   <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fronchik&layout=compact&theme=nord" />
 </a>
