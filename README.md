@@ -9,18 +9,6 @@ Currently looking for a job or internship in frontend development.
 
 ---
 
-🚀 Projects:
-
-###### 🎬 Movies Explorer  
-React app for searching and saving movies. Includes user auth and API integration.  
-🔗 [GitHub Repo](https://github.com/Fronchik/movies-explorer-frontend)
-
-###### ✈️ Russian Travel  
-Landing page showcasing a travel route across Russia. Built with HTML & CSS using responsive design.  
-🔗 [GitHub Repo](https://github.com/Fronchik/russian-travel)
-
----
-
 🛠️ Skills
 
 - HTML5, CSS3, JavaScript  
