@@ -11,17 +11,16 @@ Currently looking for a job or internship in frontend development.
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Voron_in_A)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/voronina-anna/)](https://www.linkedin.com/in/voronina-anna/)
----
 
-## 🚀 Projects
+### 🚀 Projects
 
-### 🎬 Movies Explorer  
+#### 🎬 Movies Explorer  
 React app for searching and saving movies. Includes user auth and API integration.  
 🔗 [GitHub Repo](https://github.com/Fronchik/movies-explorer-frontend)
 
 ---
 
-### ✈️ Russian Travel  
+#### ✈️ Russian Travel  
 Landing page showcasing a travel route across Russia. Built with HTML & CSS using responsive design.  
 🔗 [GitHub Repo](https://github.com/Fronchik/russian-travel)
 
