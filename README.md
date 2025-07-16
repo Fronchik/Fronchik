@@ -1,6 +1,6 @@
 <div align="center">
   
-##  Hi :wave:, I'm Anna Nazar'eva
+##  Hi :wave:, I'm Anna Voronina
 ### Frontend Developer
 
 </div>
