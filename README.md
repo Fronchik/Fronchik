@@ -7,8 +7,6 @@
 **HTML, CSS, JavaScript, React and TypeScript**.  
 Currently looking for a job or internship in frontend development.
 
----
-
 🛠️ Skills
 
 - HTML5, CSS3, JavaScript  
@@ -16,8 +14,6 @@ Currently looking for a job or internship in frontend development.
 - Git & GitHub  
 - Responsive Design (Flexbox, Grid, BEM)  
 - REST API, JSON
-
----
 
 📈 GitHub Stats
 
