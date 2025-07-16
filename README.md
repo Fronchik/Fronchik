@@ -5,9 +5,9 @@
 
 </div>
 
-🧩 Frontend developer based in **Moscow** with hands-on experience in building responsive, user-friendly interfaces using  
+🧩 I am a Frontend developer from Moscow with practical experience in creating adaptive and user-friendly interfaces using
 **HTML, CSS, JavaScript, React and TypeScript**.  
-Currently looking for job or internship opportunities in frontend development.
+Currently looking for a job or internship in frontend development.
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Voron_in_A)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/voronina-anna/)](https://www.linkedin.com/in/voronina-anna/)
